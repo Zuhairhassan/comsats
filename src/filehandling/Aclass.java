@@ -19,6 +19,8 @@ public class Aclass {
 		int secondno=enter.nextInt();
        int result=firstno/secondno;
        System.out.println(result);
+       //////////
+       ////
 	}
 
 }
